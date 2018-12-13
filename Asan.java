@@ -24,14 +24,10 @@ public class Asan extends Actor
             setRotation(270);
             move(10);
         }
-        // Add your action code here.
-<<<<<<< HEAD
         if(Greenfoot.isKeyDown("left")){
         setRotation(180);
         move(4);
     }
-=======
 
->>>>>>> 6a603790f2dc8bca63b72624d3f875c0b0761c91
-    }    
+    }  
 }
