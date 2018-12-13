@@ -1,19 +1,22 @@
 #Greenfoot project file
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=05dbc84edec25e3802490510a22f5bd4a1eea25a
 class.Asan.image=ppl3.png
 class.Asan.superclass=greenfoot.Actor
 class.MyWorld.image=bluerock.jpg
 class.MyWorld.superclass=greenfoot.World
 mainWindow.height=527
 mainWindow.width=898
-mainWindow.x=766
-mainWindow.y=202
+mainWindow.x=999
+mainWindow.y=132
 package.numDependencies=0
 package.numTargets=2
 project.charset=UTF-8
 target1.editor.height=700
 target1.editor.width=900
-target1.editor.x=798
-target1.editor.y=405
+target1.editor.x=669
+target1.editor.y=258
 target1.height=50
 target1.name=Asan
 target1.naviview.expanded=true
