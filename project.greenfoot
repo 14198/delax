@@ -15,8 +15,13 @@ package.numTargets=2
 project.charset=UTF-8
 target1.editor.height=700
 target1.editor.width=900
+<<<<<<< HEAD
 target1.editor.x=1019
 target1.editor.y=190
+=======
+target1.editor.x=1020
+target1.editor.y=248
+>>>>>>> 3b3e60fa537f7a52b0f66ffc168c649b675c7fae
 target1.height=50
 target1.name=Asan
 target1.naviview.expanded=true
