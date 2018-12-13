@@ -8,9 +8,23 @@ target2.showInterface=false
 target1.editor.width=900
 target1.type=ClassTarget
 class.MyWorld.superclass=greenfoot.World
+<<<<<<< HEAD
 target2.y=10
 target2.x=70
 package.numTargets=2
+=======
+mainWindow.height=527
+mainWindow.width=898
+mainWindow.x=908
+mainWindow.y=262
+package.numDependencies=0
+package.numTargets=2
+project.charset=UTF-8
+target1.editor.height=700
+target1.editor.width=900
+target1.editor.x=1020
+target1.editor.y=260
+>>>>>>> 6a603790f2dc8bca63b72624d3f875c0b0761c91
 target1.height=50
 target1.y=10
 target2.height=50
@@ -30,9 +44,22 @@ target1.editor.x=1020
 target2.width=80
 mainWindow.y=132
 target1.width=80
+<<<<<<< HEAD
 mainWindow.height=527
 mainWindow.x=999
 class.Asan.image=ppl3.png
+=======
+target1.x=160
+target1.y=10
+target2.editor.height=700
+target2.editor.width=900
+target2.editor.x=105
+target2.editor.y=80
+target2.height=50
+target2.name=MyWorld
+target2.naviview.expanded=true
+target2.showInterface=false
+>>>>>>> 6a603790f2dc8bca63b72624d3f875c0b0761c91
 target2.type=ClassTarget
 world.lastInstantiated=MyWorld
 target2.editor.y=52
