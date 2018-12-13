@@ -15,5 +15,9 @@ public class Asan extends Actor
     public void act() 
     {
         // Add your action code here.
+        if(Greenfoot.isKeyDown("left")){
+        setRotation(180);
+        move(4);
+    }
     }    
 }
