@@ -34,6 +34,7 @@ public class Asan extends Actor
         setRotation(180);
         move(4);
     }
+    
     }    
 }
 
