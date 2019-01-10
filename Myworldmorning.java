@@ -17,6 +17,7 @@ public class Myworldmorning extends World
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(576, 392, 2); 
-        showText("てすと",100,100);
+        
+        addObject( new Asan(), 100, 250 );
     }
 }
