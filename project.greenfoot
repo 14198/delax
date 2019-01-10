@@ -1,11 +1,13 @@
 #Greenfoot project file
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=6a603790f2dc8bca63b72624d3f875c0b0761c91
+>>>>>>>=cc6a282b10c145f0ce662386159925266678f930
 class.Asan.image=Mr.DELA.png
 class.Asan.superclass=greenfoot.Actor
 class.Bsan.image=Mr.KILA.png
 class.Bsan.superclass=greenfoot.Actor
+class.MyWorld.image=bluerock.jpg
+class.MyWorld.superclass=greenfoot.World
 class.MyWorldsunset.image=\u80CC\u666F-sunsetpng.png
 class.MyWorldsunset.superclass=greenfoot.World
 class.Myworldmorning.image=\u80CC\u666F.png
@@ -18,6 +20,7 @@ class.title.image=\u80CC\u666F.png
 class.title.superclass=greenfoot.World
 class.titlegazou.image=gazou.png
 class.titlegazou.superclass=greenfoot.Actor
+<<<<<<< HEAD
 dependency1.from=button
 dependency1.to=Myworldmorning
 dependency1.type=UsesDependency
@@ -26,10 +29,21 @@ dependency2.to=Asan
 dependency2.type=UsesDependency
 dependency3.from=title
 dependency3.to=button
+=======
+dependency1.from=title
+dependency1.to=Asan
+dependency1.type=UsesDependency
+dependency2.from=title
+dependency2.to=button
+dependency2.type=UsesDependency
+dependency3.from=button
+dependency3.to=Myworldmorning
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
 dependency3.type=UsesDependency
 dependency4.from=title
 dependency4.to=titlegazou
 dependency4.type=UsesDependency
+<<<<<<< HEAD
 dependency5.from=Myworldmorning
 dependency5.to=Asan
 dependency5.type=UsesDependency
@@ -44,6 +58,25 @@ target1.editor.height=700
 target1.editor.width=900
 target1.editor.x=482
 target1.editor.y=380
+=======
+dependency5.from=MyWorldsunset
+dependency5.to=Asan
+dependency5.type=UsesDependency
+dependency6.from=Myworldmorning
+dependency6.to=Asan
+dependency6.type=UsesDependency
+mainWindow.height=930
+mainWindow.width=1457
+mainWindow.x=358
+mainWindow.y=76
+package.numDependencies=0
+package.numTargets=9
+project.charset=UTF-8
+target1.editor.height=700
+target1.editor.width=900
+target1.editor.x=833
+target1.editor.y=262
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
 target1.height=50
 target1.name=Asan
 target1.naviview.expanded=true
@@ -64,8 +97,13 @@ target2.showInterface=false
 target2.type=ClassTarget
 target2.typeParameters=
 target2.width=80
+<<<<<<< HEAD
 target2.x=190
 target2.y=190
+=======
+target2.x=10
+target2.y=250
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
 target3.editor.height=700
 target3.editor.width=900
 target3.editor.x=105
@@ -81,27 +119,45 @@ target3.x=100
 target3.y=190
 target4.editor.height=700
 target4.editor.width=900
+<<<<<<< HEAD
 target4.editor.x=105
 target4.editor.y=52
 target4.height=50
 target4.name=Myworldnight
+=======
+target4.editor.x=318
+target4.editor.y=119
+target4.height=62
+target4.name=delax
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
 target4.naviview.expanded=true
 target4.showInterface=false
-target4.type=ClassTarget
+target4.type=PackageTarget
 target4.typeParameters=
+<<<<<<< HEAD
 target4.width=110
 target4.x=10
 target4.y=130
+=======
+target4.width=80
+target4.x=190
+target4.y=190
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
 target5.editor.height=700
 target5.editor.width=900
 target5.editor.x=406
 target5.editor.y=206
 target5.height=50
+<<<<<<< HEAD
 target5.name=MyWorldsunset
+=======
+target5.name=Myworldnight
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
 target5.naviview.expanded=true
 target5.showInterface=false
 target5.type=ClassTarget
 target5.typeParameters=
+<<<<<<< HEAD
 target5.width=120
 target5.x=70
 target5.y=10
@@ -111,23 +167,45 @@ target6.editor.x=65
 target6.editor.y=24
 target6.height=50
 target6.name=titlegazou
+=======
+target5.width=110
+target5.x=10
+target5.y=130
+target6.editor.height=700
+target6.editor.width=900
+target6.editor.x=318
+target6.editor.y=119
+target6.height=50
+target6.name=MyWorldsunset
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
 target6.naviview.expanded=true
 target6.showInterface=false
 target6.type=ClassTarget
 target6.typeParameters=
+<<<<<<< HEAD
 target6.width=90
 target6.x=10
 target6.y=250
+=======
+target6.width=120
+target6.x=70
+target6.y=10
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
 target7.editor.height=700
 target7.editor.width=900
 target7.editor.x=105
 target7.editor.y=80
 target7.height=50
+<<<<<<< HEAD
 target7.name=Myworldmorning
+=======
+target7.name=titlegazou
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
 target7.naviview.expanded=true
 target7.showInterface=false
 target7.type=ClassTarget
 target7.typeParameters=
+<<<<<<< HEAD
 target7.width=130
 target7.x=70
 target7.y=70
@@ -137,12 +215,42 @@ target8.editor.x=332
 target8.editor.y=381
 target8.height=50
 target8.name=title
+=======
+target7.width=90
+target7.x=100
+target7.y=270
+target8.editor.height=700
+target8.editor.width=900
+target8.editor.x=105
+target8.editor.y=52
+target8.height=50
+target8.name=Myworldmorning
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
 target8.naviview.expanded=true
 target8.showInterface=false
 target8.type=ClassTarget
 target8.typeParameters=
+<<<<<<< HEAD
 target8.width=80
 target8.x=130
 target8.y=130
+=======
+target8.width=130
+target8.x=70
+target8.y=70
+target9.editor.height=700
+target9.editor.width=900
+target9.editor.x=105
+target9.editor.y=72
+target9.height=50
+target9.name=title
+target9.naviview.expanded=true
+target9.showInterface=false
+target9.type=ClassTarget
+target9.typeParameters=
+target9.width=80
+target9.x=130
+target9.y=130
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
 version=2.7.1
 world.lastInstantiated=title
