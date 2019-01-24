@@ -17,6 +17,7 @@ public class Myworldmorning extends World
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(576, 392, 2); 
+<<<<<<< HEAD
         addObject(new Asan(),100,250);
         
         int X1=0,X2=600,Y1=0,Y2=400; 
@@ -33,5 +34,14 @@ public class Myworldmorning extends World
 
         } 
 
+=======
+<<<<<<< HEAD
+        
+        addObject( new Asan(), 100, 250 );
+=======
+        //showText("てすと",100,100);
+         addObject( new Asan(), 100, 250 );
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
+>>>>>>> 9a668060e58e30bffbbdc47096fb9a477af86fc4
     }
 }

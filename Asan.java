@@ -40,6 +40,7 @@ public class Asan extends Actor
     
     public void move() 
     {
+<<<<<<< HEAD
 
 
         if( Greenfoot.isKeyDown( "up" )){ 
@@ -95,4 +96,31 @@ public class Asan extends Actor
 
     } 
 }   
+=======
+<<<<<<< HEAD
+       if( Greenfoot.isKeyDown( "up" )){
+=======
+        
 
+
+        if( Greenfoot.isKeyDown( "up" )){
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a
+            setRotation(270);
+            move(10);
+        }else if( Greenfoot.isKeyDown( "down" )){
+            setRotation(90);
+            move(10);
+        }
+<<<<<<< HEAD
+
+    } }   
+
+  
+=======
+     }   
+
+
+>>>>>>> 9a668060e58e30bffbbdc47096fb9a477af86fc4
+
+    }  
+>>>>>>> 9aafe33ffb90e6faa298d904ba2d7e727b202e3a

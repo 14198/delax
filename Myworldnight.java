@@ -17,6 +17,10 @@ public class Myworldnight extends World
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(576, 392, 2);
+<<<<<<< HEAD
         addObject(new Asan(),100,250);
+=======
+        
+>>>>>>> 9a668060e58e30bffbbdc47096fb9a477af86fc4
     }
 }
