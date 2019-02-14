@@ -15,9 +15,9 @@ public class button extends Actor
     public void act() 
     {
         // Add your action code here.
-        if(Greenfoot.mouseClicked(this))
+        if(Greenfoot.mouseClicked(this))    //thisじゃなくてnullの方がよろしい
         {
-            MouseInfo mouse = Greenfoot.getMouseInfo();
+            //MouseInfo mouse = Greenfoot.getMouseInfo();
             Greenfoot.setWorld(new Myworldmorning());
         }
     }    

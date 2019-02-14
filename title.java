@@ -23,7 +23,5 @@ public class title extends World
 
     }
         public void act(){
-
-
 }
 }

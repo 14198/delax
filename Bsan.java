@@ -17,7 +17,8 @@ public class Bsan extends Actor
     public void act() 
     {
         // Add your action code here.
-        //----------敵を自動で動かすプログラム(仮)----------//
+        //----------敵を自動で動かすプログラム(暫定)----------//
+        //**
         rtime--;
         move(a);
         if(rtime == 0 && a>0)
@@ -47,6 +48,7 @@ public class Bsan extends Actor
            
         
         }
+        //*/
        
          
     }    
